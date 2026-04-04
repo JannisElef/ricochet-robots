@@ -1,8 +1,8 @@
 # Ricochet Robots
 
-Ricochet Robots like puzzle - share maps and replays via tokens, links or QR codes.
+A solo puzzle similar to Ricochet Robots - slide your robot into the goal! Share maps and replays via tokens, links or QR codes - challenge your friends!
 
-Slide through portals, position your robots and reach the goal!
+Play the advanced mode: Slide through portals, position your robots and reach the goal!
 
 Try it yourself [here](https://janniselef.github.io/ricochet-robots/).
 

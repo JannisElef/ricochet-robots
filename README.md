@@ -6,7 +6,7 @@ A solo puzzle similar to Ricochet Robots - slide your robot into the goal! Share
 Play the advanced mode: Slide through portals, bounce off diagonal walls and reach the goal!
 
 <div style="display:flex; gap20px;">
-  <a href="url">
+  <a href="https://raw.githubusercontent.com/JannisElef/ricochet-robots/main/assets/img/ricochet-robots_example-map-drawn.png">
     <img src="https://raw.githubusercontent.com/JannisElef/ricochet-robots/main/assets/img/ricochet-robots_example-map-drawn.png" height="500">
   </a>
 </div>
